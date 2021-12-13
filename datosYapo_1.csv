@@ -1,0 +1,51 @@
+"";"Fecha";"Hora";"Nombre";"Categoria";"Region";"Comuna";"PrecioNormal";"PrecioCalculado";"TipoMoneda";"ValorUf"
+"1";"Hoy";"02:22";"Huincha de medir";"Jardín, herramientas y exteriores";"Región Metropolitana";"La Florida";NA;NA;NA;NA
+"2";"Hoy";"02:17";"Único en Chile";"Otros artículos del hogar";"Región Metropolitana";"La Florida";85000;NA;"peso";NA
+"3";"Hoy";"01:56";"Living 5 cpos con o sin madera";"Muebles";"Región Metropolitana";"La Florida";310000;NA;"peso";NA
+"4";"Hoy";"01:56";"Estilista unisex";"Ofertas de empleo";"Región Metropolitana";"La Florida";NA;NA;NA;NA
+"5";"Hoy";"01:48";"Entrenador";"Ofertas de empleo";"Región Metropolitana";"La Florida";NA;NA;NA;NA
+"6";"Hoy";"01:48";"Subaru Impreza Turbo Integral";"Autos, camionetas y 4x4";"Región Metropolitana";"La Florida";5500000;NA;"peso";NA
+"7";"Hoy";"01:37";"Linda decoración en fierro forjado";"Otros artículos del hogar";"Región Metropolitana";"La Florida";54000;NA;"peso";NA
+"8";"Hoy";"01:35";"Rack con librero y copero espejado";"Muebles";"Región Metropolitana";"La Florida";40000;NA;"peso";NA
+"9";"Hoy";"01:28";"Linda casa en La Florida, sector San José de la Es";"Vendo";"Región Metropolitana";"La Florida";2265;69959530,65;"UF";30887,21
+"10";"Hoy";"01:26";"Wired controller PDP xbox one- red";"Consolas, videojuegos y accesorios";"Región Metropolitana";"La Florida";25000;NA;"peso";NA
+"11";"Hoy";"01:17";"Botella CamelBak eddy+ Kids 14oz / SummitStore";"Hobbies y outdoor";"Región Metropolitana";"La Florida";14990;NA;"peso";NA
+"12";"Hoy";"01:16";"Mueble ";"Muebles";"Región Metropolitana";"La Florida";20000;NA;"peso";NA
+"13";"Hoy";"01:13";"Telefono Publico Para Decoracion";"Accesorios y piezas para vehículos";"Región Metropolitana";"La Florida";120000;NA;"peso";NA
+"14";"Hoy";"01:09";"Antiguo Telefono Publico Para Decoracion";"Arte, antigüedades y colecciones";"Región Metropolitana";"La Florida";160000;NA;"peso";NA
+"15";"Hoy";"01:08";"Canchero Club de Tenis La FLorida";"Ofertas de empleo";"Región Metropolitana";"La Florida";20000;NA;"peso";NA
+"16";"Hoy";"00:53";"Rejilla para audi";"Accesorios y piezas para vehículos";"Región Metropolitana";"La Florida";140000;NA;"peso";NA
+"17";"Hoy";"00:50";"Cubre piso";"Accesorios y piezas para vehículos";"Región Metropolitana";"La Florida";60000;NA;"peso";NA
+"18";"Hoy";"00:48";"Restaurador pinturas completas";"Servicios";"Región Metropolitana";"La Florida";8e+05;NA;"peso";NA
+"19";"Hoy";"00:37";"Samsung sm5";"Autos, camionetas y 4x4";"Región Metropolitana";"La Florida";4500000;NA;"peso";NA
+"20";"Hoy";"00:36";"Pack Botellas CamelBak Eddy+ 600ml / SummitStore";"Otros artículos del hogar";"Región Metropolitana";"La Florida";26990;NA;"peso";NA
+"21";"Hoy";"00:31";"CONSTRUCCIÓN PRE FABRICADA 42 metros";"Negocios, maquinaria y construcción";"Región Metropolitana";"La Florida";6500000;NA;"peso";NA
+"22";"Hoy";"00:28";"Hyundai grand i-10 2019 full";"Autos, camionetas y 4x4";"Región Metropolitana";"La Florida";8200000;NA;"peso";NA
+"23";"Hoy";"00:21";"Pack Botellas CamelBak Eddy+ 750ml c/u";"Hobbies y outdoor";"Región Metropolitana";"La Florida";28990;NA;"peso";NA
+"24";"Hoy";"00:21";"Xbox series S como nueva";"Consolas, videojuegos y accesorios";"Región Metropolitana";"La Florida";NA;NA;NA;NA
+"25";"Hoy";"00:21";"Smart balance todo terreno";"Deportes, gimnasia y accesorios";"Región Metropolitana";"La Florida";180000;NA;"peso";NA
+"26";"Hoy";"00:20";"Sofacama de plaza y media";"Muebles";"Región Metropolitana";"La Florida";NA;NA;NA;NA
+"27";"Hoy";"00:15";"Ps3 en perfectas condiciones";"Consolas, videojuegos y accesorios";"Región Metropolitana";"La Florida";NA;NA;NA;NA
+"28";"Hoy";"00:05";"Juego de living";"Muebles";"Región Metropolitana";"La Florida";NA;NA;NA;NA
+"29";"Hoy";"00:05";"FIFA 22 ps5";"Consolas, videojuegos y accesorios";"Región Metropolitana";"La Florida";45000;NA;"peso";NA
+"30";"Hoy";"00:00";"Notebook Lenovo Thinkpad T14 i5 10th";"Computadores y accesorios";"Región Metropolitana";"La Florida";670000;NA;"peso";NA
+"31";"Hoy";"00:00";"Notebook HP 240 G8 Intel Celeron 4GB RAM 500GB HDD";"Computadores y accesorios";"Región Metropolitana";"La Florida";250000;NA;"peso";NA
+"32";"Ayer";"23:44";"Set de baño antiguo se regala";"Otros artículos del hogar";"Región Metropolitana";"La Florida";NA;NA;NA;NA
+"33";"Ayer";"23:43";"Confección y digitalización de planos en AutoCAD";"Servicios";"Región Metropolitana";"La Florida";NA;NA;NA;NA
+"34";"Ayer";"23:40";"Patineta eléctrica smart balance nueva";"Bicicletas, ciclismo y accesorios";"Región Metropolitana";"La Florida";84990;NA;"peso";NA
+"35";"Ayer";"23:32";"Chapa de contacto Nissan Xtrail T30";"Accesorios y piezas para vehículos";"Región Metropolitana";"La Florida";70000;NA;"peso";NA
+"36";"Ayer";"23:30";"Chapa de contacto para Nissan Murano";"Accesorios y piezas para vehículos";"Región Metropolitana";"La Florida";70000;NA;"peso";NA
+"37";"Ayer";"23:28";"Motor de alzavidrio para Nissan terrano D22";"Accesorios y piezas para vehículos";"Región Metropolitana";"La Florida";90000;NA;"peso";NA
+"38";"Ayer";"23:28";"Joyas tous";"Bolsos, bisutería y accesorios";"Región Metropolitana";"La Florida";35000;NA;"peso";NA
+"39";"Ayer";"23:24";"Lavadora 8 kilos y medio";"Electrodomésticos";"Región Metropolitana";"La Florida";40000;NA;"peso";NA
+"40";"Ayer";"23:23";"Monitor Samsung";"Computadores y accesorios";"Región Metropolitana";"La Florida";1e+05;NA;"peso";NA
+"41";"Ayer";"23:16";"Berlingo 2018 full";"Buses, camiones y furgones";"Región Metropolitana";"La Florida";12500000;NA;"peso";NA
+"42";"Ayer";"23:16";"Lavadora 8,5 kilos";"Electrodomésticos";"Región Metropolitana";"La Florida";40000;NA;"peso";NA
+"43";"Ayer";"23:16";"Señora de hogar";"Ofertas de empleo";"Región Metropolitana";"La Florida";450000;NA;"peso";NA
+"44";"Ayer";"23:12";"Tina bañera plegable para bebe";"Coches y artículos infantiles";"Región Metropolitana";"La Florida";15000;NA;"peso";NA
+"45";"Ayer";"23:10";"Mitsubishi Katana Cr 2017";"Autos, camionetas y 4x4";"Región Metropolitana";"La Florida";18800000;NA;"peso";NA
+"46";"Ayer";"23:10";"Bicicleta exelente estado";"Bicicletas, ciclismo y accesorios";"Región Metropolitana";"La Florida";40000;NA;"peso";NA
+"47";"Ayer";"23:01";"Motor de alzavidrio para Nissan Xtrail T31";"Accesorios y piezas para vehículos";"Región Metropolitana";"La Florida";90000;NA;"peso";NA
+"48";"Ayer";"22:55";"Cama-cuna madera nativa, excelente estado";"Coches y artículos infantiles";"Región Metropolitana";"La Florida";2e+05;NA;"peso";NA
+"49";"Ayer";"22:52";"Cierres bulldog instalacion y reparacio";"Servicios";"Región Metropolitana";"La Florida";25000;NA;"peso";NA
+"50";"Ayer";"22:52";"Rifle de adorno";"Arte, antigüedades y colecciones";"Región Metropolitana";"La Florida";80000;NA;"peso";NA
